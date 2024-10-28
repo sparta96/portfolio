@@ -1,0 +1,28 @@
+#hero {
+        background-color:rgba(58, 47, 47, 0.99) ;
+}
+.col-md,h2 {
+    color: crimson;
+}
+.navbar-brand{
+    img{
+        width: 100px;
+        height: 100px;
+    }
+        
+}
+.nav-link{
+    color: crimson;
+    font-family: "Poppins", sans-serif;
+  @font-face {
+    font-family: "Angista Script";
+    src: url(font/Angista Script.otf), url(font/Angista Script.ttf);
+  }
+}
+.card-body{
+        background-color: lightblue;
+
+}
+.custom-footer {
+    background-color: rebeccapurple;
+}
